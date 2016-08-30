@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"unicode"
 
-	"github.com/go-ozzo/ozzo-validation"
+	"github.com/sgleizes/ozzo-validation"
 	"gopkg.in/asaskevich/govalidator.v4"
 )
 
